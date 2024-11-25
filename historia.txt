@@ -6,3 +6,6 @@ Continuación de la primera
 parte, persona B
 rama desarrollo
 
+Final de la primera
+práctica conjunta en git
+persona A
