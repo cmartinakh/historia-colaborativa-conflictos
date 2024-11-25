@@ -1,3 +1,8 @@
 Esto es introducción de 
 la primera practica conjunta para
 practicar comandos git
+
+Continuación de la primera
+parte, persona B
+rama desarrollo
+
