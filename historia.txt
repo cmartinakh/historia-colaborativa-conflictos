@@ -6,3 +6,6 @@ Continuación de la primera
 parte, persona B
 rama desarrollo
 
+Final de desarrollo
+de la historia escrito
+por persona B
