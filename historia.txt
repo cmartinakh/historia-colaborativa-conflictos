@@ -6,6 +6,11 @@ Continuación de la primera
 parte, persona B
 rama desarrollo
 
+final-a
 Final de la primera
 práctica conjunta en git
 persona A
+
+Final de desarrollo
+de la historia escrito
+por persona B
